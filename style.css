@@ -1,0 +1,28 @@
+.black-bg {
+  background-color: black;
+  height: 8px;
+}
+
+.yellow-bg {
+  background-color: #ffcc01;
+  height: 8px;
+}
+
+.blue-bg {
+  background-color: #0055ff;
+  height: 8px;
+}
+
+.column {
+  height: 8px;
+}
+
+.ui.compact.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.item .ui.header {
+  padding-left: 10px;
+  padding-right: 10px;
+}
